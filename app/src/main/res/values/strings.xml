@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrabalhoFatec</string>
+    <string name="salvar">Salvar</string>
+    <string name="email">Email</string>
+</resources>
